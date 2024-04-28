@@ -1,0 +1,14 @@
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.AssemblyInfo.cs
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\bin\Debug\net8.0\CarSalesDataAccessLayer.deps.json
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\bin\Debug\net8.0\CarSalesDataAccessLayer.runtimeconfig.json
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\bin\Debug\net8.0\CarSalesDataAccessLayer.dll
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\bin\Debug\net8.0\CarSalesDataAccessLayer.pdb
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.dll
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\refint\CarSalesDataAccessLayer.dll
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.pdb
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\CarSalesDataAccessLayer.genruntimeconfig.cache
+C:\Users\nafer.hernandez\source\repos\RentWheelzCopilot\CarSales\CarSalesDataAccessLayer\obj\Debug\net8.0\ref\CarSalesDataAccessLayer.dll
